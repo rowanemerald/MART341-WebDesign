@@ -1,10 +1,7 @@
-# heading 1
-## heading 2
-### heading 3
-this is a paragraph, this is a paragraph, this is a paragraph, this is a paragraph.
+# Rowan's ReadMe
 
-[click here](http://youtube.com)
+I have learned what an IP andress is and a little bit of coding this week. I have also learned how to use GitHub.
 
 [my file](./responses.txt)
 
-![screenshot](./images/assignment03-text-program-screenshot.png)
+![screenshort](./images/assignment03-studio-code-screenshot.png)
