@@ -1,0 +1,2 @@
+An affordance is what a user interacts with and what it does. Like a symbol that is a button where the symbol represents what the buttons does.
+An advange of using a third party website for video hosting like youtube is that it can reach a wider audience and is easy to use. A disadvange is less control where the affordance could be different than one would perfer. There is also the possiblity your video could be taken down by the website.
