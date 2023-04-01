@@ -1,0 +1,52 @@
+body {
+    background-color: #8bc34a;
+    font-family: cursive;
+    text-align: center;
+
+}
+div {
+    border: 7px solid #aed581;
+    display: inline-block;
+}
+
+img {
+    border-radius: 18%;
+    border: 10px solid #558b2f;
+}
+.art {
+    background-color: #aed581;
+    height: 1050px;
+    width:900px;
+    display: inline-block;
+}
+#title {
+    font-size: 30px;
+    background-color: darkolivegreen;
+    color: #dcedc8;
+    margin:auto;
+}
+.palette {
+    background-color: rgba(255, 247, 142, 0.788);
+    width: 700px;
+}
+.dot {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display:inline-block;
+}
+.dot.one {
+background-color: #dcedc8;
+}
+.dot.two {
+    background-color:#aed581
+}
+.dot.three {
+    background-color:#8bc34a;
+}
+.dot.four {
+    background-color:#558b2f
+}
+.dot.five {
+    background-color:#556b2f
+}
