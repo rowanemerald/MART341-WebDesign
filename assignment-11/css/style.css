@@ -1,0 +1,50 @@
+body {
+    background-image: url(../images/pastel-rainbow.png);
+    text-align:center;
+}
+
+div {
+    border: 7px solid palegreen;
+    display: inline-block;
+}
+
+#lyrics {
+    font-family:alkatra;
+font-size: 30px;
+color: palegoldenrod;
+}
+
+#weird {
+    font-family:amaticsc;
+font-size: 100px;
+color: yellow
+}
+
+#song {
+    font-family:oswald;
+    font-size:12px;
+    color:gray;
+}
+
+#downer {
+    font-family:delicioushandrawn;
+    font-size:30px;
+    color:aliceblue;
+}
+
+.block {
+    background-color: black;
+    height: 1200px;
+    width: 1200px;
+    display: inline-block;
+}
+
+#word:hover{
+    letter-spacing: .5em;
+    color:aqua;
+}
+
+#debbie:hover{
+color: lightpink;
+font-weight: bold;
+}

@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family:'Alkatra';
+    src: url('../fonts/Alkatra-VariableFont_wght.ttf') format('truetype');
+    font-style:normal;
+}
+
+@font-face {
+    font-family: 'delicioushandrawn';
+    src: url('../fonts/DeliciousHandrawn-Regular.ttf') format('truetype');
+    font-style:normal;
+}
+
+
+@font-face{
+    font-family:'oswald';
+    src:url('../fonts/Oswald-VariableFont_wght.ttf') format('truetype');
+    font-style:normal;
+}
+
+@font-face{
+    font-family:'amaticsc';
+    src:url('../fonts/AmaticSC-Bold.ttf') format('truetype');
+    font-style:bold;
+}
