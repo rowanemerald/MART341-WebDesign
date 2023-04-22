@@ -1,0 +1,3 @@
+My website is to showcase many of the collections I have. Mostly to make people go "wow! I haven't seen that before!". Someone might visit my website out of curiousity; to see what kind of things I collect. It is not obvious what my collections are on the first page, so they would have to navigate around to see more.
+
+Responsive web design is important because so many people no a days browse the web exclusivly on their mobile device. It helps resize your website to fit any size device so it is accessible to anyone regardless what they are browsing on. It's also important to keep a website looking nice at any size.
