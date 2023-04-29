@@ -1,0 +1,5 @@
+My user tests went well. I made sure to ask them questions about certain things; and because parents have a habit of just saying whatever their child makes is 'perfect', I made sure to pressure them on the question if they would change anything. 
+
+I actually did change some things. I made the Home button more obvious as a button and what it does. Previously it had just been a small picture of a moth in the corner. I also changed where the text captions for my pictures were and made my videos into gifs.
+
+I'm still having trouble making my website at least usable on smaller screens. Some things were just too big while others, on the same page even, were just perfect.  I had to recruit my mom (who codes, though not in css) to help; and figured out some other sizing features myself. It's better, but I wouldn't consider it perfect.
