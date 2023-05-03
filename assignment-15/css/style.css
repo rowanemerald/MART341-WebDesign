@@ -1,0 +1,627 @@
+* {box-sizing: border-box;}
+
+
+
+@media only screen and (max-width: 768px){
+ [class*="col-"] {
+    width:100%;
+    float:left;
+    padding:10px;
+    
+}
+
+.col-1{width:20%}
+.col-2{width:70%}
+
+[class*="block-"] {
+    height:auto;
+    max-width:100%;
+}
+
+    div > img {
+        max-width:100%;
+    }
+
+
+
+    
+/*clip art*/
+
+.moth2 img{
+    position:absolute;
+    left:150px;
+    bottom:5px;
+}
+
+/*fidgets*/
+
+.moths img{
+    position: relative;
+    right:450px;
+    bottom:200px;
+}
+
+.magical img{
+    position: relative;
+    right:350px;
+}
+
+/*crystals*/
+
+.hand img{
+    position: relative;
+    right:350px;
+}
+
+.rosy img{
+    position: relative;
+    right:300px;
+}
+
+/*httyd*/
+
+.mushroom-butterfly img{
+    position: relative;
+    right:450px;
+    bottom:50px;
+}
+
+.free-spirit img{
+    position: relative;
+    right:350px;
+    bottom:100px;
+}
+
+/*other*/
+
+.moth-mushroom-leaf img{
+    position: relative;
+    left:50px;
+    top:570px;
+}
+
+.mushroom-leaf img{
+    position: relative;
+    right:400px;
+    top:100px;
+}
+
+.wild img{
+    position: relative;
+    right:430px;
+    bottom:20px;
+}
+
+}
+
+
+
+
+body {
+    background-image: url(../images/pink-stars.jpg);
+    text-align: center;
+    background-size: 100%;
+}
+
+
+
+/*home*/
+
+.block-1 {
+    background-color: #F5DDAD;
+    height: 600px;
+    width: 1200px;
+    display:inline-block;
+}
+
+.mushrooms{
+    width: 100px;
+} 
+.mushrooms img{
+    float:left;
+    margin-left: 0px;
+   
+}
+.fennec{
+    width:.2px;
+float:right;
+margin-left:0px;
+}
+
+.fennec img{
+    width:150px;
+    float:right;
+}
+
+
+#head2 {
+    color:black;
+    font-family:signika;
+}
+
+#title {
+    color:black;
+    font-size:70px;
+    font-family:delicioushandrawn;
+}
+
+#intro {
+   font-size:20px;
+    color:black;
+    text-align: center;
+    font-family: ptmono;
+    letter-spacing: .1em;
+}
+
+.link{
+    color:black;
+    text-decoration: none;
+}
+
+
+
+/*other*/
+
+.moth-mushroom-leaf{
+    position: relative;
+    width:200px;
+    height:2px;
+   
+    right:100px;
+}
+
+.moth-mushroom-leaf img{
+    width:300px;
+}
+
+#othertitle{
+    color:black;
+    font-family:ptmono;
+    font-size:30px;
+}
+
+.mushroom-leaf{
+    position: relative;
+    height:5px;
+    left:900px;
+    width:250px
+}
+
+.mushroom-leaf img{
+    width:400px;
+    
+}
+
+
+#otherintro{
+    color:black;
+    font-family:signika;
+}
+
+#porcelain{
+    color:black;
+    font-family:breeserif;
+    font-size:20px;
+}
+
+#plush{
+    font-family:breeserif;
+    font-size:20px;
+}
+
+.block-4{
+    background-color: #F5DDAD;
+    height: fit-content;
+    width:1200px;
+    display: inline-block;
+}
+
+.purp-moth{
+    height:5px;
+    position: relative;
+    width:100px;
+}
+
+.purp-moth img{
+    width:200px;
+}
+
+.wild{
+    position: relative;
+    height:5px;
+    left:900px;
+    width:200px;
+}
+
+.wild img{
+    width:300px;
+}
+
+
+/* httyd*/
+
+.hanging-moon{
+    position: relative;
+    left:20px;
+    top:50px;
+    height:5px;
+    width:70px;
+}
+
+.hanging-moon img{
+    width:200px;
+}
+
+.mushroom-butterfly{
+    position:relative;
+    top:100px;
+    bottom: 10px;
+    left:950px;
+    width:200px;
+    height:3px;
+}
+
+.mushroom-butterfly img{
+    width:300px;
+}
+
+.free-spirit{
+    width:200px;
+    position: relative;
+    bottom:400px;
+    height:5px;
+    left:800px;
+}
+
+.free-spirit img{
+    width:400px;
+}
+
+#httydintro{
+    color:black;
+    font-family:signika;
+}
+
+.mushroom-moth{
+    position: relative;
+    left:10px;
+    bottom:50px;
+    height:1px;
+    width:100px;
+}
+
+.mushroom-moth img{
+    width:300px;
+}
+
+#httydparagraph{
+    color:black;
+    font-family:ptmono;
+}
+
+.block-2{
+    background-color: #F5DDAD;
+    height: fit-content;
+    width: 1200px;
+    display:inline-block;
+}
+
+#sentence{
+    color:black;
+    font-family:signika;
+}
+
+#introvid{
+    color:black;
+    font-family:ptmono;
+}
+
+#bigtoothless{
+    color:black;
+    font-family:breeserif;
+    font-size:20px;
+}
+
+#nightlights{
+    color:black;
+    font-family:breeserif;
+    font-size:20px;
+}
+
+#mess{
+    color:black;
+    font-family:breeserif;
+    font-size:20px;
+}
+
+#music{
+    font-family:breeserif;
+    font-size:20px;
+}
+
+
+
+.httyd-gif img{
+    border-radius: 10%;
+}
+
+/*fidgets*/
+
+
+.fairy-frog{
+    position: relative;
+    width:100px;
+    height:5px;
+    left:50px;
+}
+
+.fairy-frog img{
+    width:250px;
+}
+
+.cresent{
+    position: relative;
+    width:100px;
+    height:5px;
+    left:10px;
+}
+
+.cresent img{
+    width:270px;
+}
+
+.moths{
+    width:360px;
+    height:3px;
+    position:relative;
+    left:900px;
+}
+
+.moths img {
+    width:300px;
+    
+}
+
+#child{
+    position:relative;
+    height:2px;
+    right:80px;
+    width:50px;
+}
+
+#child img{
+    width:300px;
+}
+
+.magical{
+    height:20px;
+    width:300px;
+    position:relative;
+    left:800px;
+}
+
+.magical img{
+    width:500px;
+}
+
+#howto{
+    color:black;
+    font-family:ptmono;
+}
+
+.source2{
+    color:black;
+}
+
+.block-3{
+    background-color: #F5DDAD;
+    height: fit-content;
+    width:1200px;
+    display: inline-block;
+}
+
+#fidgetparagraph{
+    color:black;
+    font-family:signika;
+}
+
+#fidgetintro{
+    color:black;
+    font-family:signika;
+    font-size: 20px;
+}
+
+
+.fidget-gif img{
+    border-radius: 10%;
+}
+
+/*crystals*/
+
+.hand{
+    position: relative;
+    width:200px;
+    left:800px;
+    height:5px;
+}
+
+.hand img{
+   
+    width:400px;
+}
+
+
+
+.rosy{
+   height:5px;
+   position: relative;
+   top:5px;
+   left:780px;
+   width:200px;
+}
+
+
+.rosy img{
+    
+    width:350px;
+}
+
+#crystal{
+    color:black;
+    font-family:ptmono;
+}
+
+#crystalparagraph{
+    color:black;
+    font-family:signika;
+}
+
+.source1{
+    color:black;
+}
+
+#crystalstart{
+    color:black;
+    font-family:signika;
+    font-size:30px;
+}
+
+#fluorite{
+    color:black;
+    font-family:breeserif;
+    font-size:20px;
+}
+
+#lepidolite{
+    color:black;
+    font-family:breeserif;
+    font-size:20px;
+}
+
+.folk-wolf{
+    position: relative;
+    width:300px;
+    height:5px;
+    right:100px;
+    top:500px;
+}
+
+.folk-wolf img{
+    width:600px;
+}
+
+#mushroom-moon{
+    position: relative;
+    bottom:1px;
+    height:5px;
+    width:160px;
+}
+
+#mushroom-moon img{
+    width:300px;
+    
+}
+
+
+
+.gem-gif img{
+    border-radius: 10%;
+}
+
+
+
+
+
+.moth2 {
+    position:fixed;
+    width:100px;
+    bottom:10px;
+    right:170px;
+    font-family:breeserif;
+    color:black;
+}
+
+.moth2 img{
+    width:200px;
+}
+
+
+
+
+
+header{
+    position:fixed;
+    background-color: #C9DECF;
+    width:99%;
+    height: 6em;
+    top: 0%;
+    text-align:left;
+    z-index:10;
+    
+}
+
+.site-name{
+    color:black;
+   
+    float:left;
+    min-width:4em;
+    padding: .1em 1em;
+    font-weight:bold;
+    margin: .01em .2em;
+    border-radius: 3em;
+    text-decoration: none;
+}
+
+.dropdown{
+    display:inline-block;
+}
+
+.dropdown-content{
+    display:none;
+    position:absolute;
+    margin: 3em .5 1 -1em;
+    background-color: #CCE8DB;
+    z-index: 1;
+}
+
+.dropdown-item {
+    display:block;
+    text-align:center;
+    margin: 0;
+    padding: .5em 1em .5em 1em;
+    min-width:5em;
+    text-decoration: none;
+}
+
+.dropdown:hover .dropdown-content {
+    display:block;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color:black;
+    background-color: #fcf4dd;
+}
+
+.menu-item{
+    display: inline-block;
+    margin: 2em .2em;
+    background-color: #bfb7ca;
+    padding: .5em 1em;
+    border-radius: 2em;
+    min-width: 4em;
+    text-align: center;
+}
+
+.menu-item:hover {
+    background-color:#daeaf6;
+}
+
+.menu-item a {
+    color: black;
+    text-decoration: none;
+}
+
+#first-bar {
+    margin-top:4em;
+    padding: 1em;
+}
