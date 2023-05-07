@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: 'delicioushandrawn';
+    src: url('../fonts/DeliciousHandrawn-Regular.ttf') format('truetype');
+    font-style:normal;
+}
+
+@font-face {
+    font-family: 'titanone';
+src: url('../fonts/TitanOne-Regular.ttf') format('truetype');
+font-style:normal;
+}
+
+@font-face {
+    font-family:'ptmono';
+    src: url('../fonts/PTMono-Regular.ttf') format('truetype');
+    font-style:normal;
+}
+
+@font-face{
+    font-family:signika;
+    src: url('../fonts/SignikaNegative-Regular.ttf') format('truetype');
+    font-style:normal;
+}
+
+@font-face{
+    font-family:breeserif;
+    src: url('../fonts/BreeSerif-Regular.ttf') format('truetype');
+    font-style:noraml;
+}
